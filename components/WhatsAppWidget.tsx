@@ -91,7 +91,7 @@ const WhatsAppWidget: React.FC = () => {
         
         <footer className="p-4 bg-gray-900 rounded-b-lg">
           <a
-            href="https://wa.me/910000000000?text=Hello%20Shubham!"
+            href="https://wa.me/917310521023?text=Hello%20Shubham!"
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full text-center bg-green-500 text-white font-bold py-3 px-4 rounded-lg hover:bg-green-600 transition-colors"
