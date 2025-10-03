@@ -11,7 +11,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToContact }) => {
       <div className="max-w-4xl mx-auto px-4">
         <div className="relative">
             <div className="absolute -inset-2 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-full blur-3xl opacity-20"></div>
-            <h1 className="relative text-3xl md:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-gray-100 to-gray-400 mb-6">
+            <h1 className="relative text-3xl md:text-3xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-gray-100 to-gray-400 mb-6">
               I build next-gen websites & AI automation tools for businesses to scale with speed & precision.
             </h1>
         </div>
